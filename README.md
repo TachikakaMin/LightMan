@@ -16,3 +16,12 @@ Arduino Hardware Game
 
 敌人 ai 使用最原始的沙雕算法
 
+
+
+![image](https://github.com/TachikakaMin/LightMan/blob/master/IMG_20180923_195551_HDR.jpg)
+
+
+![image](https://github.com/TachikakaMin/LightMan/blob/master/IMG_20180923_195503_HDR.jpg)
+
+
+
